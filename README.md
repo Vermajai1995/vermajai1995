@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 <h3 align="center">A Problem Solver | Software Development Expert</h3>
-<h3 align="left">A full-stack Software Developer with <h2>6 Years of experience </h2> in multiple domains(Health Insurance, Investment, Loan Defaulter Handling Process, Smart Security Integration, Steel Industry, and Packaging Industry, including CRM, ERP, and Payroll) with wide tech-Stacks, worked with Web and mobile development.</h3>
+<h3 align="left">A full-stack Software Developer with 6 Years of experience in multiple domains(Health Insurance, Investment, Loan Defaulter Handling Process, Smart Security Integration, Steel Industry, and Packaging Industry, including CRM, ERP, and Payroll) with wide tech-Stacks, worked with Web and mobile development.</h3>
 
 <h3>I love to explore the best possible way of solving a problem, organizing data, and improving the existing system through my skills.</h3>
 
