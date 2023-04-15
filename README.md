@@ -3,23 +3,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://twitter.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://fb.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://instagram.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://dribbble.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://www.behance.net/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://hashnode.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://medium.com/@vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vermajai1995" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vermajai1995" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vermajai1995" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="vermajai1995" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
