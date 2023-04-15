@@ -1,4 +1,3 @@
-Hi there 👋
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 <h3 align="center">A Problem Solver | Software Development Expert</h3>
 
