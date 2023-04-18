@@ -4,6 +4,12 @@
 
 <h3>I love to explore the best possible way of solving a problem, organizing data, and improving the existing system through my skills.</h3>
 
+<h3 align="left">Here is my portfolio :
+
+<a href="https://vermajai1995.vercel.app/" target="blank"><img align="center" src="https://github.com/Vermajai1995/Portfolio/blob/master/assets/img/favicon.JPG" alt="vermajai1995" height="30" width="40" /> Jai Patel- Portfolio</a>
+
+  </h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vermajai1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermajai1995" height="30" width="40" /></a>
