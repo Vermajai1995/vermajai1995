@@ -3,8 +3,6 @@
 <h3 align="left">A Software Professional with a problem-solving mindset and a quick learner
 .Eager to explore and push the boundaries of what's possible.</h3>
 
-<h3>I love to explore the best possible way of solving a problem, organizing data, and improving the existing system through my skills.</h3>
-
 <h3 align="left">Here is my portfolio :
 
 <a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="https://github.com/Vermajai1995/Portfolio/blob/master/assets/img/favicon.JPG" alt="vermajai1995" height="30" width="40" /> Jai Patel- Portfolio</a>
