@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 <h3 align="center">A Problem Solver | Software Development Expert</h3>
-<h3 align="left">A Software Professional with a problem-solving mindset and a quick learner
-.Eager to explore and push the boundaries of what's possible.</h3>
+<h3 align="left">A Software Professional with a problem-solving mindset and a quick learner. Eager to explore and push the boundaries of what's possible.</h3>
 
 <h3 align="left">Here is my portfolio :
 
