@@ -1,16 +1,3 @@
-<style>.btn {
-  background-color: DodgerBlue; /* Blue background */
-  border: none; /* Remove borders */
-  color: white; /* White text */
-  padding: 12px 16px; /* Some padding */
-  font-size: 16px; /* Set a font size */
-  cursor: pointer; /* Mouse pointer on hover */
-}
-
-/* Darker background on mouse-over */
-.btn:hover {
-  background-color: RoyalBlue;
-}</style>
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 <h3 align="center">A Problem Solver | Software Development Expert</h3>
 <h3 align="left">A Software Professional with a problem-solving mindset and a quick learner. Eager to explore and push the boundaries of what's possible.</h3>
@@ -19,7 +6,12 @@
 
 
 <p align="left">
-<h3 align="left">Connect with me: <button class="btn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" style="height: 44px;width: 53px;" /> Home</button>  Instagram <a href="https://instagram.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" style="height: 44px;width: 53px;" /></a> | Facebook<a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> | 
+<h3 align="left">Connect with me: <button style="background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px; 
+  font-size: 16px;
+  cursor: pointer;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" style="height: 44px;width: 53px;" /> Home</button>  Instagram <a href="https://instagram.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" style="height: 44px;width: 53px;" /></a> | Facebook<a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> | 
 LinkedIn<a href="https://linkedin.com/in/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> </h3>
 </p>
 
