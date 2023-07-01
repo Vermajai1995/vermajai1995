@@ -8,14 +8,7 @@
 <a href="https://linkedin.com/in/vermajai1995" target="_blank">LinkedIn <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> </h3>
 </p>
 
-<p align="left">Others:-  
-<a href="https://twitter.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://medium.com/@vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vermajai1995" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Subscribe to my channel:</h3>
-<a href="https://www.youtube.com/@VermaJai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vermajai1995" height="30" width="40" /></a>
+<h3 align="left">Subscribe to my channel:</h3><a href="https://www.youtube.com/@VermaJai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vermajai1995" height="30" width="40" /></a>
 
 <h3 align="left">Here is my portfolio : <a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="http://drive.google.com/uc?export=view&id=1K32X77vXRnv5urvUOvgXrq65tihN2okz" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Jai Patel- Portfolio</a></h3>
 
@@ -26,3 +19,9 @@
 <p><a href="https://www.buymeacoffee.com/vermajai1995"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vermajai1995" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermajai1995&show_icons=true&locale=en&layout=compact" alt="vermajai1995" /></p>
+<p align="left">Others:-  
+<a href="https://twitter.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermajai1995" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vermajai1995" height="30" width="40" /></a>
+<a href="https://medium.com/@vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vermajai1995" height="30" width="40" /></a>
+</p>
+
