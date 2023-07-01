@@ -1,4 +1,4 @@
-<img align="center" src="http://drive.google.com/uc?export=view&id=13Wf8zH-j_PHny82w4eqlW1j1zyDPIDoL" alt="vermajai1995" style="height: 44px;width: 53px;"/>
+<img align="center" src="http://drive.google.com/uc?export=view&id=13Wf8zH-j_PHny82w4eqlW1j1zyDPIDoL"/>
 
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 <h3 align="center">A Problem Solver | Software Development Expert</h3>
