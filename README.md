@@ -4,7 +4,7 @@
 
 <h3 align="left">Here is my portfolio :
 
-<a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="https://github.com/Vermajai1995/Portfolio/blob/master/assets/img/favicon.png" alt="Jai Patel - Portfolio" height: 44px;width: 53px; /> Jai Patel- Portfolio</a>
+<a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="https://github.com/Vermajai1995/Portfolio/blob/master/assets/img/favicon.png" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Jai Patel- Portfolio</a>
 
   </h3>
 
