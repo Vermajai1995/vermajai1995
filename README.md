@@ -2,25 +2,21 @@
 <h3 align="center">A Problem Solver | Software Development Expert</h3>
 <h3 align="left">A Software Professional with a problem-solving mindset and a quick learner. Eager to explore and push the boundaries of what's possible.</h3>
 
-<h3 align="left">Here is my portfolio :
+<h3 align="left">Here is my portfolio : <a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="https://github.com/Vermajai1995/Portfolio/blob/master/assets/img/favicon.png" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Jai Patel- Portfolio</a></h3>
 
-<a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="https://github.com/Vermajai1995/Portfolio/blob/master/assets/img/favicon.png" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Jai Patel- Portfolio</a>
 
-  </h3>
-
-<h3 align="left">Connect with me:</h3> 
-<a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" height="30" width="40" /></a>
 <p align="left">
-  
+<h3 align="left">Connect with me:  <a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" height="30" width="40" /></a> </h3>
+</p>
+
+<p align="left">  
 <a href="https://twitter.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermajai1995" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vermajai1995" height="30" width="40" /></a>
-
 <a href="https://instagram.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://medium.com/@vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vermajai1995" height="30" width="40" /></a>
-
 </p>
+
 <h3 align="left">Subscribe to my channel:</h3>
 <a href="https://www.youtube.com/@VermaJai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vermajai1995" height="30" width="40" /></a>
 
