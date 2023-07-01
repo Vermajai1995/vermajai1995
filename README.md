@@ -6,14 +6,13 @@
 
 
 <p align="left">
-<h3 align="left">Connect with me:  <a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" height="30" width="40" /></a>
+<h3 align="left">Connect with me:  <a href="https://instagram.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" height="30" width="40" /></a> | <a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" height="30" width="40" /></a> | 
 <a href="https://linkedin.com/in/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" height="30" width="40" /></a> </h3>
 </p>
 
-<p align="left">  
+<p align="left">Others:-  
 <a href="https://twitter.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://instagram.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" height="30" width="40" /></a>
 <a href="https://medium.com/@vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vermajai1995" height="30" width="40" /></a>
 </p>
 
