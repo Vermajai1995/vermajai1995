@@ -3,7 +3,7 @@
 <h3 align="left">A Software Professional with a problem-solving mindset and a quick learner. Eager to explore and push the boundaries of what's possible.</h3>
 
 <h3 align="left">Here is my portfolio : <a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="https://github.com/Vermajai1995/Portfolio/blob/master/assets/img/favicon.png" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Jai Patel- Portfolio</a></h3>
-
+<h3 align="left">Here is my portfolio : <a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="https://drive.google.com/file/d/1K32X77vXRnv5urvUOvgXrq65tihN2okz/view?usp=sharing" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Jai Patel- Portfolio</a></h3>
 
 <p align="left">
 <h3 align="left">Connect with me: <a href="https://instagram.com/vermajai1995" target="_blank">Instagram <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" style="height: 44px;width: 53px;" /></a> | <a href="https://fb.com/vermajai1995" target="_blank">Facebook <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> | 
