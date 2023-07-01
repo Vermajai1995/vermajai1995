@@ -6,8 +6,8 @@
 
 
 <p align="left">
-<h3 align="left">Connect with me:  <a href="https://instagram.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" height="30" width="40" /></a> | <a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" height="30" width="40" /></a> | 
-<a href="https://linkedin.com/in/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" height="30" width="40" /></a> </h3>
+<h3 align="left">Connect with me:  <a href="https://instagram.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" style="height: 44px;width: 53px;" /></a> | <a href="https://fb.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> | 
+<a href="https://linkedin.com/in/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> </h3>
 </p>
 
 <p align="left">Others:-  
