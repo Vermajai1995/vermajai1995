@@ -11,9 +11,10 @@
 <h3 align="left">Subscribe to my channel:<a href="https://www.youtube.com/@VermaJai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vermajai1995" height="30" width="40" /></a></h3>
 
 <h3 align="left">Take a look on my Portfolio :
+  <a href="https://jai-patel.vercel.app/" target="_blank"> Simpler Portfolio</a>
+</h3>
+<h3 align="left">Take a look on my Portfolio :
   <a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="http://drive.google.com/uc?export=view&id=1K32X77vXRnv5urvUOvgXrq65tihN2okz" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Detailed - Portfolio</a>
-  |
-   <a href="https://jai-patel.vercel.app/" target="_blank"> Simpler Portolio </a>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
