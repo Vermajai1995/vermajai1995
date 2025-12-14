@@ -1,4 +1,4 @@
-<img align="center" src="http://drive.google.com/uc?export=view&id=13Wf8zH-j_PHny82w4eqlW1j1zyDPIDoL"/>
+<!-- <img align="center" src="http://drive.google.com/uc?export=view&id=13Wf8zH-j_PHny82w4eqlW1j1zyDPIDoL"/> -->
 
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 <h3 align="center">Software Engineer | Problem Solver | AI & Productivity Tools Builder</h3>
@@ -30,7 +30,6 @@ Passionate about shipping fast, clean UI and solving real-world problems.
 
 ### 🧑‍💻 Portfolio
 - 🌐 **Main Portfolio:** https://vermajai1995.vercel.app  
-- ⚡ **Simple Portfolio:** https://jai-patel.vercel.app  
 
 ---
 
