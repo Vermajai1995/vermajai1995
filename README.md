@@ -1,32 +1,119 @@
 <img align="center" src="http://drive.google.com/uc?export=view&id=13Wf8zH-j_PHny82w4eqlW1j1zyDPIDoL"/>
+
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
-<h3 align="center">A Problem Solver | Software Development Expert</h3>
-<h3 align="left">A Software Professional with a problem-solving mindset and a quick learner. Eager to explore and push the boundaries of what's possible.</h3>
+<h3 align="center">Software Engineer | Problem Solver | AI & Productivity Tools Builder</h3>
 
+<p align="center">
+I build practical, user-focused web apps, AI assistants and productivity tools.  
+Passionate about shipping fast, clean UI and solving real-world problems.
+</p>
+
+---
+
+### 🌐 Connect with me
 <p align="left">
-<h3 align="left">Connect with me: <a href="https://instagram.com/vermajai1995" target="_blank">Instagram <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vermajai1995" style="height: 44px;width: 53px;" /></a> | <a href="https://fb.com/vermajai1995" target="_blank">Facebook <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> | 
-<a href="https://linkedin.com/in/vermajai1995" target="_blank">LinkedIn <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermajai1995" style="height: 44px;width: 53px;"/></a> </h3>
+<a href="https://instagram.com/vermajai1995" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+</a>
+<a href="https://fb.com/vermajai1995" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35"/>
+</a>
+<a href="https://linkedin.com/in/vermajai1995" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+</a>
+<a href="https://www.youtube.com/@VermaJai1995" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="35"/>
+</a>
 </p>
 
-<h3 align="left">Subscribe to my channel:<a href="https://www.youtube.com/@VermaJai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vermajai1995" height="30" width="40" /></a></h3>
+---
 
-<h3 align="left">Take a look on my Portfolio :
-  <a href="https://jai-patel.vercel.app/" target="_blank"> Simpler Portfolio</a>
-</h3>
-<h3 align="left">Take a look on my Portfolio :
-  <a href="https://vermajai1995.vercel.app/" target="_blank"><img align="center" src="http://drive.google.com/uc?export=view&id=1K32X77vXRnv5urvUOvgXrq65tihN2okz" alt="Jai Patel - Portfolio" style="height: 44px;width: 53px;"  /> Detailed - Portfolio</a>
-</h3>
+### 🧑‍💻 Portfolio
+- 🌐 **Main Portfolio:** https://vermajai1995.vercel.app  
+- ⚡ **Simple Portfolio:** https://jai-patel.vercel.app  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/vermajai1995"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vermajai1995" /></a></p><br><br>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermajai1995&show_icons=true&locale=en&layout=compact" alt="vermajai1995" /></p>
-<p align="left">Others:-  
-<a href="https://twitter.com/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vermajai1995" height="30" width="40" /></a>
-<a href="https://medium.com/@vermajai1995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vermajai1995" height="30" width="40" /></a>
+### 🤖 AI & Automation
+- **AI Chat Bot**  
+  👉 https://ai-chat-assistant-jai-patel.vercel.app  
+  _Interactive AI that answers queries & guides users._
+
+- **AI Interview Assistant**  
+  👉 https://ai-interview-assistant-jai-patel.vercel.app  
+  _Simulated interviews with structured feedback._
+
+- **AI Resume Reviewer**  
+  👉 https://ai-resume-reviewer-jai-patel.vercel.app  
+  _Resume analysis with ATS & improvement suggestions._
+
+- **AI Resume Builder**  
+  👉 https://ai-resume-builder-jai-patel.vercel.app  
+  _Generates tailored resume content._
+
+- **HR Assistant (Voice → JD / Email)**  
+  👉 https://hr-assistant.vercel.app  
+  _Speech to structured HR requirements & templates._
+
+---
+
+### 🛠 Productivity & Tools
+- **Feedback Collector Widget**  
+  👉 https://feedback-jai-patel.vercel.app  
+  _Centralized, embeddable feedback system._
+
+- **Share Text Online**  
+  👉 https://share-text-jai-patel.vercel.app  
+  _Quickly share notes across devices._
+
+- **Emoji Assistant** 🆕  
+  👉 https://emoji-assistant.vercel.app  
+  _AI-powered emoji suggestions for messages._
+
+- **Focus Mode Chrome Extension**  
+  👉 https://focus-mode-extension.vercel.app  
+  _Block distracting sites with schedules._
+
+---
+
+### 🎵 Media & Utilities
+- **AI Slow & Reverb Studio**  
+  👉 https://ai-slow-reverb.vercel.app  
+
+- **Picture Tools**  
+  👉 https://ai-picture-tools.vercel.app  
+
+- **YouTube MP3 Player (PWA)**  
+  👉 https://mp3-pwa.vercel.app  
+
+- **Daily Expense Tracker (PWA)**  
+  👉 https://daily-expense-tracker-jp.vercel.app  
+
+---
+
+### 🧰 Tech Stack
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
+---
+
+### ☕ Support
+<a href="https://www.buymeacoffee.com/vermajai1995">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+</a>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vermajai1995&layout=compact"/>
+</p>
