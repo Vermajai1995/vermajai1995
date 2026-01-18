@@ -1,16 +1,14 @@
-<!-- <img align="center" src="http://drive.google.com/uc?export=view&id=13Wf8zH-j_PHny82w4eqlW1j1zyDPIDoL"/> -->
-
 <h1 align="center">Hi 👋, I'm Jai Patel</h1>
 <h3 align="center">Software Engineer | Problem Solver | AI & Productivity Tools Builder</h3>
 
 <p align="center">
-I build practical, user-focused web apps, AI assistants and productivity tools.  
-Passionate about shipping fast, clean UI and solving real-world problems.
+I build practical, user-focused web applications, internal tools, and AI-assisted systems.  
+Focused on clean architecture, reusable components, and solving real-world problems through engineering.
 </p>
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 <p align="left">
 <a href="https://instagram.com/vermajai1995" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
@@ -28,71 +26,62 @@ Passionate about shipping fast, clean UI and solving real-world problems.
 
 ---
 
-### 🧑‍💻 Portfolio
+## 🧑‍💻 Portfolio
 - 🌐 **Main Portfolio:** https://vermajai1995.vercel.app  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Case Studies (System Design & Platform Engineering)
 
-### 🤖 AI & Automation
-- **AI Chat Bot**  
-  👉 https://ai-chat-assistant-jai-patel.vercel.app  
-  _Interactive AI that answers queries & guides users._
+### 🧠 AI Interview Assistant
+- **GitHub:** https://github.com/Vermajai1995/interview-platform-hr-tech  
+- **Live:** https://ai-interview-assistant-jai-patel.vercel.app  
 
-- **AI Interview Assistant**  
-  👉 https://ai-interview-assistant-jai-patel.vercel.app  
-  _Simulated interviews with structured feedback._
+A structured interview platform designed to reduce interviewer subjectivity and generate rubric-based feedback.  
+Built using Next.js App Router with stateless APIs and deterministic evaluation logic.
 
-- **AI Resume Reviewer**  
-  👉 https://ai-resume-reviewer-jai-patel.vercel.app  
-  _Resume analysis with ATS & improvement suggestions._
-
-- **AI Resume Builder**  
-  👉 https://ai-resume-builder-jai-patel.vercel.app  
-  _Generates tailored resume content._
-
-- **HR Assistant (Voice → JD / Email)**  
-  👉 https://hr-assistant.vercel.app  
-  _Speech to structured HR requirements & templates._
+**Focus:** System design, evaluation consistency, internal HR tooling.
 
 ---
 
-### 🛠 Productivity & Tools
-- **Feedback Collector Widget**  
-  👉 https://feedback-jai-patel.vercel.app  
-  _Centralized, embeddable feedback system._
+### 💬 Embedded Feedback Widget
+- **GitHub:** https://github.com/Vermajai1995/embedded-feedback-widget  
+- **Live:** https://feedback-jai-patel.vercel.app  
 
-- **Share Text Online**  
-  👉 https://share-text-jai-patel.vercel.app  
-  _Quickly share notes across devices._
+A reusable, script-embeddable feedback widget integrated across multiple applications.  
+Decoupled frontend widget with centralized backend integration (Google Sheets, Supabase).
 
-- **Emoji Assistant** 🆕  
-  👉 https://emoji-assistant.vercel.app  
-  _AI-powered emoji suggestions for messages._
-
-- **Focus Mode Chrome Extension**  
-  👉 https://focus-mode-extension.vercel.app  
-  _Block distracting sites with schedules._
+**Focus:** Reusability, platform thinking, internal product tooling.
 
 ---
 
-### 🎵 Media & Utilities
-- **AI Slow & Reverb Studio**  
-  👉 https://ai-slow-reverb.vercel.app  
+### 🧩 Focus Mode Chrome Extension
+- **Live:** https://focus-mode-extension.vercel.app  
 
-- **Picture Tools**  
-  👉 https://ai-picture-tools.vercel.app  
+A productivity-focused Chrome extension that blocks distracting websites using schedules and user-defined rules.
 
-- **YouTube MP3 Player (PWA)**  
-  👉 https://mp3-pwa.vercel.app  
-
-- **Daily Expense Tracker (PWA)**  
-  👉 https://daily-expense-tracker-jp.vercel.app  
+**Focus:** Browser APIs, state management, real-user constraints.
 
 ---
 
-### 🧰 Tech Stack
+## 🧪 Experiments & Side Projects
+
+Smaller tools built to explore UX, APIs, and rapid prototyping:
+
+- AI Chat Bot  
+- AI Resume Reviewer  
+- AI Resume Builder  
+- HR Assistant (Voice → JD / Email)  
+- Share Text Online  
+- Daily Expense Tracker  
+- AI Slow & Reverb Studio  
+- Picture Tools  
+- Emoji Assistant  
+- YouTube MP3 Player  
+
+---
+
+## 🧰 Core Technologies
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -106,7 +95,7 @@ Passionate about shipping fast, clean UI and solving real-world problems.
 
 ---
 
-### ☕ Support
+## ☕ Support
 <a href="https://www.buymeacoffee.com/vermajai1995">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
 </a>
