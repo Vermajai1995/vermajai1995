@@ -27,7 +27,7 @@ Focused on clean architecture, reusable components, and solving real-world probl
 ---
 
 ## 🧑‍💻 Portfolio
-- 🌐 **Main Portfolio:** https://vermajai1995.vercel.app  
+- 🌐 **Main Portfolio:** http://pateljai.com/
 
 ---
 
