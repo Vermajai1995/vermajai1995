@@ -393,3 +393,285 @@ It serves as a continuously evolving engineering platform used to experiment wit
 Every new project becomes another component of the ecosystem rather than another isolated repository.
 
 ---
+
+# 🌟 Flagship Engineering Platforms
+
+The following platforms represent the core building blocks of my engineering ecosystem.
+
+Each project is designed to solve a real engineering problem and integrates with the broader platform rather than existing as an isolated application.
+
+---
+
+## 🚀 JP Ecosystem
+
+> **The central engineering platform powering every connected application, device and automation workflow.**
+
+**Purpose**
+
+JP Ecosystem is the foundation that connects cloud services, desktop agents, mobile applications, browser extensions and IoT devices into one unified engineering platform.
+
+### Highlights
+
+- 🌐 Distributed Architecture
+- ☁️ Cloud-native Backend
+- 📡 Device Connectivity
+- 🔄 Workflow Automation
+- 🔐 API-first Design
+- 📈 Observability
+- 🤖 AI Integrations
+
+**Technologies**
+
+`.NET` `Azure` `AWS` `REST APIs` `Google Sheets`
+`OpenRouter` `Docker` `GitHub Actions`
+
+**Current Status**
+
+🟢 Active Development
+
+**Links**
+
+🔗 GitHub
+
+🌍 Live Platform
+
+---
+
+## ⚡ CaptainAPI
+
+> **Expose local machine capabilities securely through REST APIs.**
+
+CaptainAPI acts as the bridge between local devices and cloud services.
+
+Instead of interacting directly with operating systems, every platform component communicates through secure API endpoints.
+
+### Features
+
+- Shutdown
+- Restart
+- Sleep
+- Clipboard
+- Media Control
+- File Operations
+- Application Launch
+- Device Information
+- Volume Control
+
+**Stack**
+
+`.NET`
+`REST`
+`JWT`
+`Windows`
+`macOS`
+
+Status
+
+🟢 Production
+
+GitHub
+
+Live Demo
+
+---
+
+## 💻 JP Device Agent
+
+> **Cross-platform desktop agent responsible for heartbeat monitoring, automation and remote execution.**
+
+Runs as a background service.
+
+Maintains persistent communication with the engineering platform.
+
+### Responsibilities
+
+- Heartbeat
+- Device Registration
+- Health Monitoring
+- Remote Commands
+- Scheduled Tasks
+- Background Services
+- Status Reporting
+
+Supported Platforms
+
+- Windows
+- macOS
+
+Stack
+
+`.NET`
+
+`Windows Services`
+
+`macOS`
+
+`REST APIs`
+
+Status
+
+🟢 Production
+
+---
+
+## 📊 JP Dashboard
+
+> **Central monitoring dashboard for the engineering ecosystem.**
+
+Designed to visualize platform health instead of individual applications.
+
+### Dashboard Features
+
+- Device Health
+- Live Status
+- Activity Timeline
+- Workflow Monitoring
+- Automation Logs
+- Alerts
+- Platform Metrics
+
+Stack
+
+`React`
+
+`TypeScript`
+
+`REST`
+
+`Cloud`
+
+Status
+
+🟢 Active
+
+---
+
+## 📱 JP Remote
+
+> **Native iPhone & iPad application for securely controlling the engineering platform.**
+
+Designed for mobile-first platform management.
+
+Capabilities
+
+- Device Control
+- Media Control
+- Platform Monitoring
+- Trigger Automation
+- Remote Commands
+
+Stack
+
+`SwiftUI`
+
+`iOS`
+
+`iPadOS`
+
+`REST APIs`
+
+Status
+
+🟢 Active
+
+---
+
+## 🤖 AI Recruiter Outreach
+
+> **AI-powered recruiter engagement platform.**
+
+Automates recruiter communication from job discovery to follow-up.
+
+### Workflow
+
+Resume
+
+↓
+
+AI
+
+↓
+
+Email
+
+↓
+
+Recruiter
+
+↓
+
+Activity Tracking
+
+Features
+
+- Resume Selection
+- AI Prompt Generation
+- Gmail Integration
+- Tracking
+- Logging
+- Templates
+
+Stack
+
+`OpenAI`
+
+`OpenRouter`
+
+`Node.js`
+
+`Gmail API`
+
+Status
+
+🟢 Production
+
+---
+
+## 🎤 HR Assistant
+
+> **Speech-to-structured HR automation platform.**
+
+Transforms spoken hiring requirements into structured engineering documents.
+
+### Generates
+
+- Job Descriptions
+- Candidate Requirements
+- Evaluation Criteria
+- Recruiter Emails
+- Hiring Notes
+
+Stack
+
+`Speech Recognition`
+
+`OpenAI`
+
+`Next.js`
+
+Status
+
+🟢 Active
+
+---
+
+## 🧩 Other Engineering Projects
+
+Alongside the flagship platforms, I actively build smaller tools focused on productivity, AI and developer experience.
+
+Some examples include:
+
+- AI Interview Assistant
+- Resume Builder
+- Resume Reviewer
+- Focus Mode Extension
+- Emoji Assistant
+- Share Anything
+- Corporate Translator
+- Daily Expense Tracker
+- Picture Tools
+- Slow & Reverb Studio
+
+These projects often become reusable components within the broader JP Ecosystem.
+
+---
