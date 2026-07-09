@@ -675,3 +675,334 @@ Some examples include:
 These projects often become reusable components within the broader JP Ecosystem.
 
 ---
+
+# 🧠 Engineering Expertise
+
+I enjoy solving engineering problems that span multiple platforms rather than building isolated applications.
+
+### Core Expertise
+
+| Engineering Area | Experience |
+|-----------------|------------|
+| 🏗 Platform Engineering | ⭐⭐⭐⭐⭐ |
+| ☁️ Cloud Architecture | ⭐⭐⭐⭐⭐ |
+| 🔗 Backend APIs | ⭐⭐⭐⭐⭐ |
+| 🌍 Distributed Systems | ⭐⭐⭐⭐⭐ |
+| ⚡ Automation Platforms | ⭐⭐⭐⭐⭐ |
+| 💻 Cross Platform Development | ⭐⭐⭐⭐☆ |
+| 📱 Mobile Applications | ⭐⭐⭐⭐☆ |
+| 🤖 AI Workflow Automation | ⭐⭐⭐⭐☆ |
+| 🏠 IoT Integrations | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🛠 Technology Stack
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+Technologies
+
+- .NET
+- ASP.NET Core
+- C#
+- Node.js
+- Java
+- Python
+- REST APIs
+- Background Services
+- Microservices
+
+---
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+
+<img src="https://skillicons.dev/icons?i=githubactions"/>
+
+</p>
+
+Experience with
+
+- Azure Functions
+
+- Azure App Services
+
+- Azure Storage
+
+- AWS Lambda
+
+- SQS
+
+- EC2
+
+- Docker
+
+- Kubernetes
+
+- GitHub Actions
+
+- CI/CD
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=angular"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+---
+
+## Desktop Engineering
+
+Platform capabilities
+
+✔ Windows Services
+
+✔ Background Agents
+
+✔ Scheduled Tasks
+
+✔ Remote Execution
+
+✔ Heartbeat Monitoring
+
+✔ Device Health
+
+✔ File Operations
+
+✔ Automation
+
+---
+
+## Mobile Development
+
+Platforms
+
+- iPhone
+- iPad
+
+Framework
+
+- SwiftUI
+
+Capabilities
+
+- Remote Device Control
+
+- Live Status
+
+- Secure APIs
+
+- Automation Triggers
+
+---
+
+## Internet of Things
+
+Current Hardware
+
+- ESP32
+
+- Motion Sensor
+
+- Smart Plug
+
+- Google Home
+
+- APC UPS
+
+Capabilities
+
+✔ Sensor Integration
+
+✔ Device Automation
+
+✔ Remote Control
+
+✔ Power Management
+
+✔ REST APIs
+
+---
+
+## Artificial Intelligence
+
+Current Focus
+
+- OpenAI
+
+- OpenRouter
+
+- Speech Recognition
+
+- Prompt Engineering
+
+- AI Workflow Automation
+
+- Resume Intelligence
+
+- HR Automation
+
+- Recruiter Automation
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+</p>
+
+Experience
+
+- SQL Server
+
+- PostgreSQL
+
+- MySQL
+
+- Kusto DB
+
+- Google Sheets
+
+---
+
+# 🏗 Engineering Capabilities
+
+Rather than listing technologies, these are the kinds of systems I enjoy building.
+
+## Platform Design
+
+- API-first architecture
+
+- Service orchestration
+
+- Modular systems
+
+- Reusable components
+
+---
+
+## Automation
+
+- Background processing
+
+- Event-driven workflows
+
+- Scheduled jobs
+
+- Cross-device automation
+
+---
+
+## Observability
+
+- Heartbeats
+
+- Monitoring
+
+- Health checks
+
+- Logging
+
+- Dashboards
+
+---
+
+## Integration
+
+- Gmail API
+
+- Google APIs
+
+- REST APIs
+
+- Browser Extensions
+
+- Local Network APIs
+
+---
+
+## Software Architecture
+
+- Layered Architecture
+
+- Clean Architecture
+
+- SOLID Principles
+
+- Dependency Injection
+
+- Repository Pattern
+
+- CQRS
+
+- Event-driven Systems
+
+---
+
+# 📚 Currently Exploring
+
+- AI Agents
+
+- MCP
+
+- Semantic Search
+
+- Local LLMs
+
+- Multi-device orchestration
+
+- Voice-first interfaces
+
+- Edge Computing
+
+---
+
+# 💡 Engineering Mindset
+
+I enjoy building systems where every component has a clear responsibility.
+
+Instead of solving one isolated problem, I prefer creating reusable engineering platforms that continue to grow over time.
+
+Every new project is designed to become another building block inside the larger JP Ecosystem.
+
+---
