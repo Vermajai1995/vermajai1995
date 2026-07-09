@@ -1006,3 +1006,148 @@ Instead of solving one isolated problem, I prefer creating reusable engineering 
 Every new project is designed to become another building block inside the larger JP Ecosystem.
 
 ---
+
+# 📈 GitHub Insights
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vermajai1995&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermajai1995&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Vermajai1995&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Engineering Journey
+
+```text
+2016
+ │
+ ├── Enterprise Software Development
+ │
+ ├── Backend Engineering
+ │
+ ├── Cloud Platforms
+ │
+ ├── Distributed Systems
+ │
+ ├── Platform Engineering
+ │
+ ├── AI Automation
+ │
+ ├── Cross Platform Development
+ │
+ └── JP Ecosystem
+```
+
+---
+
+# 🎯 Current Engineering Focus
+
+My current work is centered around building a unified engineering platform that combines:
+
+✔ Cloud Services
+
+✔ Desktop Agents
+
+✔ Mobile Applications
+
+✔ IoT Devices
+
+✔ AI Automation
+
+✔ API-first Architecture
+
+✔ Workflow Automation
+
+✔ Cross-platform Engineering
+
+---
+
+# 📚 Continuous Learning
+
+Technology evolves every day.
+
+I actively invest time learning and experimenting with areas that will shape the next generation of engineering platforms.
+
+### Currently Exploring
+
+- AI Agents
+- MCP (Model Context Protocol)
+- Local LLMs
+- Event Driven Systems
+- Distributed Automation
+- Voice Interfaces
+- Semantic Search
+- Edge Computing
+
+---
+
+# 🌍 Open Source Philosophy
+
+I believe engineering knowledge becomes more valuable when it is shared.
+
+Most of my public repositories are simplified versions of real engineering ideas, platform components and automation systems that I continue improving over time.
+
+My goal is to build projects that are useful not only for me but also for other developers interested in backend engineering, automation and distributed systems.
+
+---
+
+# ✍️ Beyond Engineering
+
+Outside of day-to-day software development, I enjoy:
+
+- Writing technical articles
+- Creating developer tools
+- Building automation platforms
+- Experimenting with AI workflows
+- Exploring distributed system design
+- Learning new technologies
+- Mentoring engineers
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://pateljai.com">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-0A192F?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/vermajai1995">
+<img src="https://img.shields.io/badge/LinkedIn-Jai Patel-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Vermajai1995">
+<img src="https://img.shields.io/badge/GitHub-Vermajai1995-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:pateljai1995@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you enjoy engineering platforms, backend systems or automation, feel free to explore my repositories.
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,100:2563EB&section=footer"/>
+
+</p>
