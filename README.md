@@ -142,3 +142,254 @@ My home lab acts as a real-world engineering playground where software interacts
 Everything is connected through custom backend services, APIs, automation workflows and monitoring systems.
 
 ---
+
+# ⚙️ Engineering Ecosystem
+
+Instead of building standalone applications, I design engineering platforms where every component communicates through APIs, automation workflows and distributed services.
+
+The ecosystem below represents the architecture powering my personal engineering platform.
+
+```text
+
+                                    JP ECOSYSTEM
+
+                                          │
+                                          │
+                             ┌────────────┴────────────┐
+                             │                         │
+                      Core Backend (.NET)         Google Sheets
+                             │                         │
+                             │                         │
+         ┌───────────────────┼─────────────────────────┼────────────────────┐
+         │                   │                         │                    │
+         │                   │                         │                    │
+    CaptainAPI          JP Dashboard          AI Recruiter          HR Assistant
+         │                   │                  Outreach                Voice AI
+         │                   │                         │                    │
+         └───────────────────┼─────────────────────────┘
+                             │
+                     JP Device Agent
+                             │
+          ┌──────────────────┼──────────────────────┐
+          │                  │                      │
+      Windows PC        MacBook Pro            Mini PC
+          │                  │                      │
+          └──────────────────┼──────────────────────┘
+                             │
+                     Local REST APIs
+                             │
+          ┌──────────────────┼──────────────────────┐
+          │                  │                      │
+        ESP32          Motion Sensor         Smart Plug
+          │
+          │
+      Google Home
+          │
+       APC UPS
+```
+
+---
+
+## 🌍 Platform Architecture
+
+This ecosystem has been designed around one central principle:
+
+> **Every service should be independently deployable, observable and remotely controllable.**
+
+The platform connects cloud services with desktop applications, mobile devices and IoT hardware through secure REST APIs and background services.
+
+Instead of relying on disconnected tools, every component participates in one unified engineering platform.
+
+---
+
+## ☁️ Cloud Layer
+
+Responsible for orchestration, storage and workflow automation.
+
+### Components
+
+- Core Backend (.NET)
+- Google Sheets
+- Gmail API
+- OpenRouter
+- OpenAI
+- Azure
+- AWS
+- Vercel
+- Supabase
+
+Responsibilities
+
+- Authentication
+- Workflow execution
+- Job scheduling
+- Device registry
+- Activity logging
+- AI orchestration
+- Notification services
+
+---
+
+## 💻 Desktop Layer
+
+Cross-platform services responsible for endpoint automation.
+
+### Windows
+
+- Background Agent
+- Heartbeat
+- System Monitoring
+- File Operations
+- Command Execution
+
+### macOS
+
+- Device Agent
+- Remote Execution
+- Monitoring
+- Automation
+
+### Mini PC
+
+- Continuous Services
+- Scheduled Jobs
+- Automation Host
+- Local APIs
+
+---
+
+## 📱 Mobile Layer
+
+Native applications communicate with backend APIs.
+
+### JP Remote
+
+Features
+
+- Device Control
+- Media Control
+- Remote Commands
+- Live Device Status
+- Automation Triggers
+
+Supports
+
+- iPhone
+- iPad
+
+---
+
+## 🌐 API Layer
+
+CaptainAPI exposes secure local capabilities over WiFi.
+
+Capabilities
+
+- Shutdown
+- Restart
+- Sleep
+- Volume Control
+- Clipboard
+- File Operations
+- Application Launch
+- Media Control
+- Device Information
+- Health Status
+
+Designed with an API-first approach so any authorized client can interact with local devices.
+
+---
+
+## 🤖 AI Layer
+
+AI is integrated as a platform capability rather than a standalone feature.
+
+Current AI services
+
+- Recruiter Outreach
+- HR Assistant
+- Interview Assistant
+- Resume Builder
+- Resume Reviewer
+- Corporate Translator
+
+These services automate repetitive engineering and business workflows.
+
+---
+
+## 🏠 Home Automation Layer
+
+Real hardware integrated into the platform.
+
+Current setup
+
+- ESP32
+- Motion Sensor
+- Google Home
+- SmartEefi Smart Plug
+- APC UPS
+
+Example automation flow
+
+Motion Detected
+
+↓
+
+ESP32 API
+
+↓
+
+Core Backend
+
+↓
+
+Google Sheets
+
+↓
+
+Dashboard Update
+
+↓
+
+Notification
+
+Another workflow
+
+Power Failure
+
+↓
+
+ESP32
+
+↓
+
+CaptainAPI
+
+↓
+
+Mini PC
+
+↓
+
+Graceful Shutdown
+
+---
+
+## 🎯 Engineering Goals
+
+The objective of this ecosystem is not simply home automation.
+
+It serves as a continuously evolving engineering platform used to experiment with:
+
+- Distributed Systems
+- Platform Engineering
+- Cross-platform Development
+- API Design
+- Event-driven Automation
+- Device Communication
+- Cloud-native Services
+- AI-assisted Engineering
+
+Every new project becomes another component of the ecosystem rather than another isolated repository.
+
+---
